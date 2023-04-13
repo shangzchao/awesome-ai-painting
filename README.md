@@ -26,7 +26,7 @@
 
 |Name                   | Tags   |URL                                                                                                                       |
 |-----------------------|-----------|-----------------------------------------------------------------------------------------------------------|
-|midjourney             |新用户免费20次|https://www.midjourney.com/                                                                                                    |
+|midjourney             |新用户免费已停用|https://www.midjourney.com/                                                                                                    |
 |wombo.art              |免费      |https://app.wombo.art/                                                                                                         |
 |Google Colab           |免费      |https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb#scrollTo=yEErJFjlrSWS|
 |DALL·E 2               |排队申请    |https://openai.com/dall-e-2/                                                                                                   |
